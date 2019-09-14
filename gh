@@ -1,0 +1,6 @@
+echo "# sept14" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:GavinW93/sept14.git
+git push -u origin master
