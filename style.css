@@ -1,0 +1,28 @@
+.title{
+    font-size:30px;
+    color: white;
+    text-align:center;
+    background-color:black;
+
+}
+
+.info {
+    font-size:20px;
+    color: white;
+    text-align:center;
+}
+.pic
+{
+    float:left;
+    color: white;
+
+}
+.links
+{
+    float:right; 
+}
+.main
+{
+    background-color:grey; 
+    height:400px;
+}
